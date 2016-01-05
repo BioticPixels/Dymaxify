@@ -14,4 +14,4 @@ Used in the ['Dymaxion Elevation and Shoreline Map (DESM)' article](http://bioti
 
 `original/dymaxify.pl` is the original dymaxify script by Schuyler D. Erle downloaded from [http://iconocla.st/hacks/dymax/dymaxify.pl]().
 
-`dymaxify3.pl` is the modified script. Additions include progress output, and a little tweaking.
+`dymaxify2.pl` is the modified script. Additions include progress output, and a little tweaking.
